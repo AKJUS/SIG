@@ -1,0 +1,5 @@
+events:
+- type: join
+  actor_id: 22735550
+  actor_handle: shiptux
+  created_at: 2026-08-11 14:29:29+00:00
