@@ -1535,3 +1535,7 @@ events:
   actor_id: 298592563
   actor_handle: zqq-dora
   created_at: 2026-09-04 15:05:50+08:00
+- type: join
+  actor_id: 298592563
+  actor_handle: zqq-dora
+  created_at: 2026-09-07 01:32:48+00:00
